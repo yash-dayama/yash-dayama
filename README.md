@@ -24,13 +24,13 @@
 </div>
 
 <div style="margin-bottom: 20px;">
-  <p><img align="right" rel="noopener noreferrer nofollow" src="https://github-readme-stats.vercel.app/api?username=maiYASHhoon&show_icons=true&locale=en" alt="maiyashhoon" /></p>
+  <p><img align="right" rel="noopener noreferrer nofollow" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maiYASHhoon&show_icons=true&locale=en" alt="maiyashhoon" /></p>
 </div>
 
 <div style="margin-bottom: 20px;">
   <p align="center">&nbsp;</p>
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maiYASHhoon&" alt="maiYASHhoon" />
+    <img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=maiYASHhoon&" alt="maiYASHhoon" />
   </p>
 </div>
 
