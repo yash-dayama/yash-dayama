@@ -1,7 +1,7 @@
 ![logo](https://github.com/yash-dayama/yash-dayama/blob/main/Yash%20Dayama.png)
 <h1 align="center">Hi 👋, I'm Yash Dayama</h1>
 <h3 align="center">Transforming Ideas into Intelligent Web Experiences: AI Enthusiast and MERN Stack Developer</h3>
- <img align="right" alt="coding" src="https://github.com/maiYASHhoon/maiYASHhoon/blob/main/img.gif" width="300" >
+ <img align="right" alt="coding" src="https://github.com/yash-dayama/yash-dayama/blob/main/img.gif" width="300" >
           
      
 
